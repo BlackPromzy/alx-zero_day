@@ -1,2 +1,1 @@
-My second commit
-I am Alive
+My second commit is alive
